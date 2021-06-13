@@ -1,3 +1,8 @@
+# Basic JavaScript functions - pre-course assessment
+
+See this Integrify assessment's instruction below.
+***
+
 # Javascript Assignment
 
 These exercises were designed to help learning basic skills in javascript
